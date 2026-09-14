@@ -17,11 +17,28 @@ The **Brain Study Global Initiative** was founded and developed within the **Fac
 
 ---
 
-### 👨‍⚕️ Executive Leadership
-* **Robson Orso** — Founder & Chief Executive Officer (CEO)
-* *Medical Student | Aspiring Neurosurgeon*
-* **Focus:** Neuro-oncology, 3D Neuroimaging Volumetrics, Distal Mechanical Thrombectomy & Quantitative Evidence Synthesis.
+### 👨‍⚕️ Executive Leadership & Scientific Direction
 
+* **Robson Silva Araújo Orso** — Founder & Chief Executive Officer (CEO)
+  * **Institutional Affiliation:** Faculdade de Medicina, Universidade do Estado de Mato Grosso (UNEMAT), Cáceres, MT, Brazil.
+  * **Executive & Industrial Background:** 
+    * 15+ years of operational leadership and quality engineering in large-scale bauxite mining (Risk Grade 4 / High-Reliability Operations).
+    * Expertise in process optimization, quality assurance, industrial risk mitigation, and systematic failure-mode prevention.
+  * **Multidisciplinary Academic & Clinical Qualifications:** 
+    * Executive MBA in Health Management (Expected Oct 2026)
+    * Multidisciplinary Post-Graduate Specialization in Clinical & Intensive Neurology (Faculdade Unyleya, 2025)
+    * Post-Graduate Specialization in Production Engineering (UNINTER, 2018)
+    * B.S. in Business Administration (AIEC, 2014)
+  * **Scientific Profile:** ORCID: [0000-0001-8834-6097](https://orcid.org/0000-0001-8834-6097) | Lattes ID / ResearchGate.
+  * **Clinical & Translational Focus:** Neuro-oncology, Augmented Reality-Assisted Cranial Resection, Distal Mechanical Thrombectomy (DMVO), Critical Care Pathways & Quantitative Evidence Synthesis.
+  * **International Societies & Scientific Trainee Memberships:**
+    * American Academy of Neurology (AAN)
+    * Congress of Neurological Surgeons (CNS)
+    * Academia Brasileira de Neurologia (ABN) & Academia Brasileira de Neurocirurgia (ABNc)
+    * AO Spine & World Spinal Column Society (WSCS)
+    * World Stroke Organization (WSO)
+  * **Core Methodological Competencies:** Evidence-Based Medicine (PRISMA 2020 / Cochrane RoB 2), Biostatistics in RStudio (`meta`, `metafor`), 3D Slicer Volumetric Segmentation, Value Stream Mapping (VSM) & Lean Healthcare Systems.
+  * **Contact:** `robson.orso@unemat.br` / `robsonaraujoorso@hotmail.com`
 ---
 
 ### 🔬 Clinical Evidence & Reproducible Pipelines
