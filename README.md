@@ -1,5 +1,4 @@
-# Brain Study Global Initiative 🧠🌐
-### Advancing Neuroscience Through Global Collaboration and Innovation
+<p align="center">
   <img src="brain_study_sem_linha_branca.png" alt="Brain Study Global Initiative" width="650">
 </p>
 
@@ -15,7 +14,7 @@ A **Brain Study Global Initiative** nasce com o compromisso de democratizar o ac
 
 ### 👨‍⚕️ Executive Leadership
 * **Robson Orso** — Founder & Chief Executive Officer (CEO)
-* *Medical Student | Aspiring Neurosurgeon*
+* *Medical Student 
 * **Focus:** Neuro-oncology, 3D Neuroimaging Volumetrics, Distal Mechanical Thrombectomy & Quantitative Evidence Synthesis.
 
 ---
