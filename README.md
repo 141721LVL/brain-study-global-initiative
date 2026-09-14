@@ -1,6 +1,5 @@
 # Brain Study Global Initiative 🧠🌐
 ### Advancing Neuroscience Through Global Collaboration and Innovation
-<p align="center">
   <img src="brain_study_sem_linha_branca.png" alt="Brain Study Global Initiative" width="650">
 </p>
 
