@@ -1,32 +1,22 @@
-# Global Study Brain Initiative 🧠🌐
-### Análise de Evidência Clínica: Volume Ventricular vs. Severidade de Sintomas
+<p align="center">
+  <img src="brain_study_sem_linha_branca.png" alt="Brain Study Global Initiative" width="650">
+</p>
 
-Este repositório contém o pipeline de análise quantitativa utilizado para correlacionar o volume dos ventrículos laterais (mensurado via segmentação 3D) com a escala de severidade neurológica em coortes clínicas (Controles vs. Patológicos).
-
----
-
-### 📊 Metodologia e Tecnologias
-
-* **Linguagem:** R (v4.5.3) & RStudio
-* **Pacotes Principais:** `ggplot2`, `tidyverse`, `scales` para visualização e modelagem de alta resolução.
-* **Ferramentas de Segmentação:** 3D Slicer / Formato NRRD.
-* **Análise:** Modelagem de regressão linear para avaliação de biomarcadores estruturais.
+# Brain Study Global Initiative 🧠🌐
+### Advancing Neuroscience Through Global Collaboration and Innovation
 
 ---
 
-### 📈 Resultados Obtidos
-
-O gráfico gerado demonstra uma correlação linear positiva robusta entre o aumento volumétrico ventricular e o agravamento do score sintomático no grupo patológico.
-
-![Clinical Evidence](brain_study_evidence_plot.png)
-
-> **Interpretação Bioestatística:** A correlação linear positiva ($R^2 > 0.95$, $p < 0.001$) valida a dilatação ventricular bilateral como biomarcador morfométrico quantitativo sensível para estratificação de risco e seguimento clínico.
+### 👨‍⚕️ Executive Leadership
+* **Robson Orso** — Founder & Chief Executive Officer (CEO)  
+* *Medical Student | Aspiring Neurosurgeon*  
+* **Focus:** Neuro-oncology, 3D Neuroimaging Volumetrics, Distal Mechanical Thrombectomy & Quantitative Evidence Synthesis.
 
 ---
 
-### 🏛️ Liderança e Governança Executiva
+### 🔬 Clinical Evidence & Reproducible Pipelines
+Este repositório reúne pipelines quantitativos e morfométricos abertos para pesquisa neurocirúrgica e neurovascular.
 
-* **Iniciativa:** Global Study Brain Initiative
-* **Liderança:** Chief Executive Officer (CEO)
-* **Padrões e Princípios:** *Open Science*, Reprodutibilidade Estatística, Diretrizes PRISMA 2020 e Integridade Científica (ICMJE).
-* **Licença:** MIT License (Código Aberto para Pesquisa e Ensino).
+* **Pipeline R:** `ventricular_volume_analysis.R`
+* **Morfometria 3D:** Segmentação volumétrica via 3D Slicer / formato NRRD
+* **Diretrizes:** PRISMA 2020, Cochrane RoB 2, AMSTAR-2
