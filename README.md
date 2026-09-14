@@ -12,9 +12,14 @@ A **Brain Study Global Initiative** nasce com o compromisso de democratizar o ac
 
 ---
 
+### 🏛️ Academic Roots & Institutional Heritage
+The **Brain Study Global Initiative** was founded and developed within the **Faculdade de Medicina, Universidade do Estado de Mato Grosso (UNEMAT)**, Cáceres, Brazil. We honor our institutional foundation by fostering high-level neurosurgical research, quantitative meta-analyses, and open-science methods from regional academia to the global stage.
+
+---
+
 ### 👨‍⚕️ Executive Leadership
 * **Robson Orso** — Founder & Chief Executive Officer (CEO)
-* *Medical Student 
+* *Medical Student | Aspiring Neurosurgeon*
 * **Focus:** Neuro-oncology, 3D Neuroimaging Volumetrics, Distal Mechanical Thrombectomy & Quantitative Evidence Synthesis.
 
 ---
