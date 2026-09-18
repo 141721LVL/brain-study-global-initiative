@@ -36,8 +36,7 @@ The **Brain Study Global Initiative** was founded and developed within the **Fac
     * Congress of Neurological Surgeons (CNS)
     * Academia Brasileira de Neurologia (ABN) & Academia Brasileira de Neurocirurgia (ABNc)
     * AO Spine & World Spinal Column Society (WSCS)
-    * World Stroke Organization (WSO)
-  * **Core Methodological Competencies:** Evidence-Based Medicine (PRISMA 2020 / Cochrane RoB 2), Biostatistics in RStudio (`meta`, `metafor`), 3D Slicer Volumetric Segmentation, Value Stream Mapping (VSM) & Lean Healthcare Systems.
+      * **Core Methodological Competencies:** Evidence-Based Medicine (PRISMA 2020 / Cochrane RoB 2), Biostatistics in RStudio (`meta`, `metafor`), 3D Slicer Volumetric Segmentation, Value Stream Mapping (VSM) & Lean Healthcare Systems.
   * **Contact:** `robson.orso@unemat.br` / `robsonaraujoorso@hotmail.com`
 ---
 
