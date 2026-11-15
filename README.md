@@ -23,6 +23,7 @@ Our goal is to democratize access to transparent analytical pipelines in neurosu
 * **Biostatistics & Programming:** RStudio (`meta`, `metafor`, `robvis`), Python, MATLAB, RevMan 5.4.1
 * **3D Neuroimaging:** Volumetric segmentation using 3D Slicer (NRRD / DICOM workflows)
 * **Quality & Process Engineering:** B.S. in Business Administration (AIEC), Postgraduate Specialization in Production Engineering (UNINTER), Postgraduate Specialization in Clinical and Intensive Neurology (Unyleya), Executive MBA in Healthcare Management, and Lean Healthcare / Six Sigma methodologies
+* **Evidence-Based Medicine:** Systematic Reviews & Meta-Analyses (PRISMA 2020, Cochrane RoB 2, AMSTAR 2) — Certified by **Johns Hopkins University** (*Introduction to Systematic Review and Meta-Analysis*, 2026) and **UNICAMP** (*Revisão Sistemática e Meta-análise*, 2025)
 
 ---
 
