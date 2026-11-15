@@ -1,57 +1,40 @@
-<div align="center">
-  <!-- Insira aqui a hiperligação para a sua nova imagem de cabeçalho (banner) -->
-  <img src="URL_DA_IMAGEM_AQUI" alt="Brain Study Global Initiative Banner" width="100%">
-</div>
+# Brain Study Global Initiative (BSGI)
 
-# Brain Study Global Initiative 🧠 🌐
-**Advancing Neuroscience Through Global Collaboration and Innovation**
+**Open Science, Reproducible Biostatistics & Neurosurgical Evidence Synthesis**
 
 ---
 
-### 🌍 Global Impact & Humanitarian Mission
-The **Brain Study Global Initiative** was founded with a commitment to democratize access to advanced neurosurgical research and evidence-based medicine. Aligned with the principles of Global Neurosurgery, we combine open science, reproducible biostatistics, and 3D morphometry to empower new surgical leaders, reduce regional health disparities, and transform data into life-saving clinical decisions worldwide.
+### Overview & Mission
+The **Brain Study Global Initiative (BSGI)** is an independent, student-led open science and computational research repository dedicated to quantitative evidence synthesis, reproducible biostatistics, and 3D neuroanatomical morphometry. 
 
-### 🏛️ Academic Roots & Institutional Heritage
-The Brain Study Global Initiative was founded and developed within the **Faculdade de Medicina, Universidade do Estado de Mato Grosso (UNEMAT)**, Cáceres, Brazil. We honor our institutional foundation by fostering high-level neurosurgical research, quantitative meta-analyses, and open-science methods from regional academia to the global stage.
-
----
-
-### 👨‍💼 Executive Leadership & Scientific Direction
-
-**Robson Silva Araújo Orso** — *Founder & Chief Executive Officer (CEO)*
-
-* **Institutional Affiliation:** Faculdade de Medicina, Universidade do Estado de Mato Grosso (UNEMAT), Cáceres, MT, Brazil.
-* **Clinical & Translational Focus:** Neuro-oncology, Augmented Reality-Assisted Cranial Resection, Distal Mechanical Thrombectomy (DMVO), Critical Care Pathways & Quantitative Evidence Synthesis.
-* **Scientific Profiles:** [ORCID: 0000-0001-8834-6097](https://orcid.org/0000-0001-8834-6097) | Lattes ID / ResearchGate
-* **Contact:** robson.orso@unemat.br / robsonoraujoorso@hotmail.com
-
-#### Executive & Industrial Background
-* **15+ years** of operational leadership and quality engineering in large-scale bauxite mining (Risk Grade 4 / High Reliability Operations).
-* Expertise in process optimization, quality assurance, industrial risk mitigation, and systematic failure mode prevention.
-
-#### Multidisciplinary Academic Qualifications
-* **Executive MBA in Health Management** (Expected Oct 2026)
-* **Post Graduate Specialization in Clinical & Intensive Neurology** (Faculdade Unyleya, 2025)
-* **Post Graduate Specialization in Production Engineering** (UNINTER, 2018)
-* **B.S. in Business Administration** (AIEC, 2014)
-
-#### International Societies & Scientific Trainee Memberships
-* American Academy of Neurology (AAN)
-* Congress of Neurological Surgeons (CNS)
-* Academia Brasileira de Neurologia (ABN) & Academia Brasileira de Neurocirurgia (ABNc)
-* AO Spine & World Spinal Column Society (WSCS)
-
-#### Core Methodological Competencies
-* **Evidence-Based Medicine:** PRISMA 2020, Cochrane RoB 2, AMSTAR-2
-* **Biostatistics:** RStudio (`meta`, `metafor`)
-* **Neuroanatomy:** 3D Slicer Volumetric Segmentation
-* **Process Optimization:** Value Stream Mapping (VSM) & Lean Healthcare Systems
+Our goal is to democratize access to transparent analytical pipelines in neurosurgery and clinical neurology—bridging systematic review methodologies (PRISMA 2020), open-source R programming, and 3D neuroimaging segmentation.
 
 ---
 
-### 🔬 Clinical Evidence & Reproducible Pipelines
-This repository gathers open quantitative and morphometric pipelines for neurosurgical and neurovascular research.
+### Scientific Coordination
+**Robson Silva Araújo Orso** — *Coordinator & Independent Researcher*  
+* **Academic Status:** Medical Student (MD Candidate), Cáceres, MT, Brazil  
+* **Research Focus:** Neuro-oncology, Augmented Reality-Assisted Navigation, Spine Surgery, and Quantitative Evidence Synthesis  
+* **Scientific Profiles:** [ORCID: 0000-0001-8834-6097](https://orcid.org/0000-0001-8834-6097) | [GitHub](https://github.com/141721LVL)  
+* **Contact:** robsonaraujoorso@hotmail.com  
 
-* **R Pipeline:** `ventricular_volume_analysis.R`
-* **3D Morphometry:** Volumetric segmentation via 3D Slicer / NRRD format
-* **Guidelines:** PRISMA 2020, Cochrane RoB 2, AMSTAR-2
+#### Background & Methodological Competencies
+* **Evidence-Based Medicine:** Systematic Reviews & Meta-Analyses (PRISMA 2020, Cochrane RoB 2, AMSTAR 2)
+* **Biostatistics & Programming:** RStudio (`meta`, `metafor`, `robvis`), Python, MATLAB, RevMan 5.4.1
+* **3D Neuroimaging:** Volumetric segmentation using 3D Slicer (NRRD / DICOM workflows)
+* **Quality & Process Engineering:** B.S. in Business Administration (AIEC), Postgraduate Specialization in Production Engineering (UNINTER), Postgraduate Specialization in Clinical and Intensive Neurology (Unyleya), Executive MBA in Healthcare Management, and Lean Healthcare / Six Sigma methodologies
+
+---
+
+### Repository Architecture & Open Databases
+This repository hosts structured datasets, PRISMA extraction tables, and reproducible R scripts:
+
+* `01_Evidence_Synthesis_Databases/`: Standardized `.csv` datasets and risk-of-bias matrices from systematic reviews in neurosurgery and neuro-oncology.
+* `02_Biostatistics_R_Scripts/`: Reproducible scripts for random-effects meta-analyses, forest plots, and volumetric correlation models (`ventricular_volume_analysis.R`).
+* `03_Neuroimaging_3D_Volumetry/`: Protocols and scripts for cranial MRI ventricular segmentation.
+
+---
+
+### How to Cite & License
+* **Code License:** MIT License  
+* **Data License:** Creative Commons Attribution 4.0 International (CC-BY 4.0)
