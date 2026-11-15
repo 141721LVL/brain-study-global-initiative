@@ -38,12 +38,12 @@ This repository hosts structured datasets, PRISMA extraction tables, and reprodu
 ### Peer-Reviewed Conference Proceedings & Indexed Abstracts
 
 1. **Orso, R. S. A.** (2026). *Mechanical Thrombectomy for Distal Medium Vessel Occlusion (DMVO): A Systematic Review and Meta-Analysis of Recent Randomized Controlled Trials*[cite: 10]. Presented at the **18th World Stroke Congress (WSC 2026)**, Seoul, South Korea (October 21–23, 2026) — Abstract ID: 1793[cite: 10]. Published in *International Journal of Stroke (IJS)*, Vol. 21, Issue 2_suppl, Oct 2026 (SAGE Publications; ISSN: 1747-4930 / eISSN: 1747-4949).  
-   * **Journal Proceedings (SAGE / IJS DOI):** [https://doi.org/10.1177/17474930261484004](https://doi.org/10.1177/17474930261484004)[cite: 14]  
-   * **Open Repository & E-Poster (Zenodo):** [https://doi.org/10.5281/zenodo.22681352](https://doi.org/10.5281/zenodo.22681352)[cite: 10]
+   * **Journal Proceedings (SAGE / IJS DOI):** [https://doi.org/10.1177/17474930261484004](https://doi.org/10.1177/17474930261484004) 
+   * **Open Repository & E-Poster (Zenodo):** [https://doi.org/10.5281/zenodo.22681352](https://doi.org/10.5281/zenodo.22681352)
 
 2. **Orso, R. S. A.** (2026). *Integrating Engineering and Medicine: Impact of Lean Management and Value Stream Mapping (VSM) on Hyperacute Stroke Workflow Optimization – A Systematic Review and Meta-Analysis*[cite: 11]. Presented at the **18th World Stroke Congress (WSC 2026)**, Seoul, South Korea (October 21–23, 2026) — Abstract ID: 2189[cite: 11]. Published in *International Journal of Stroke (IJS)*, Vol. 21, Issue 2_suppl, Oct 2026 (SAGE Publications; ISSN: 1747-4930 / eISSN: 1747-4949).  
-   * **Journal Proceedings (SAGE / IJS DOI):** [https://doi.org/10.1177/17474930261484004](https://doi.org/10.1177/17474930261484004)[cite: 14]  
-   * **Open Repository & E-Poster (Zenodo):** [https://doi.org/10.5281/zenodo.22698887](https://doi.org/10.5281/zenodo.22698887)[cite: 11]
+   * **Journal Proceedings (SAGE / IJS DOI):** [https://doi.org/10.1177/17474930261484004](https://doi.org/10.1177/17474930261484004)
+   * **Open Repository & E-Poster (Zenodo):** [https://doi.org/10.5281/zenodo.22698887](https://doi.org/10.5281/zenodo.22698887)
   
      
   ---
