@@ -23,6 +23,7 @@ Our goal is to democratize access to transparent analytical pipelines in neurosu
 * **Biostatistics & Programming:** RStudio (`meta`, `metafor`, `robvis`), Python, MATLAB, RevMan 5.4.1
 * **3D Neuroimaging:** Volumetric segmentation using 3D Slicer (NRRD / DICOM workflows)
 * **Quality & Process Engineering:** B.S. in Business Administration (AIEC), Postgraduate Specialization in Production Engineering (UNINTER), Postgraduate Specialization in Clinical and Intensive Neurology (Unyleya), Executive MBA in Healthcare Management, and Lean Healthcare / Six Sigma methodologies
+* **International Scientific Societies (Student Member):** European Academy of Neurology (EAN), American Academy of Neurology (AAN), American Neurological Association (ANA), Congress of Neurological Surgeons (CNS), World Stroke Organization (WSO), Society for Neuro-Oncology (SNO), AO Spine, World Spinal Column Society (WSCS), Academia Brasileira de Neurologia (ABN), and Academia Brasileira de Neurocirurgia (ABNc)
 
 ---
 
